@@ -9,7 +9,7 @@
 }
 
 .entypo-social{
-  font: normal normal normal 16px/1 entypo-social;
+  font: normal normal normal 28px/1 entypo-social;
   display: inline-block;
   text-decoration: none;
   text-rendering: auto;
@@ -21,4 +21,5 @@
   user-select: none;
 }
 
-.entypo-twitter:before { content: '\f309'} /* ? */
+.entypo-twitter:before { content: '\f309'}
+.entypo-twitter-mark:before { content: '\f30a'}
