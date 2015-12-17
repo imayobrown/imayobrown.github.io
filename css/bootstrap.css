@@ -3993,6 +3993,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   text-decoration: none;
   background-color: #eee;
 }
+/* Added by Ian Brown */
+.nav > li > a > svg {
+  fill: #777;
+}
+.nav > li > a:hover path,
+.nav > li > a:focus path {
+  fill: #000000;
+}
+/* End Ian's edit */
 .nav > li.disabled > a {
   color: #777;
 }
