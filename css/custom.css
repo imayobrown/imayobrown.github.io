@@ -1,0 +1,14 @@
+/* Custom styles for Ian Brown's web page */
+
+/* Makes any svg icons embedded in nav bar react like embedded font icons in Bootstrap */
+.nav > li > a > svg {
+  fill: #777;
+}
+.nav > li > a:hover path,
+.nav > li > a:focus path {
+  fill: #000000;
+}
+.navbar-brand {
+  font-family: 'Reenie Beanie', cursive;
+  font-weight: bold;
+}
