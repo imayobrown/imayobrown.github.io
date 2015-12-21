@@ -12,6 +12,19 @@
   font-family: 'Reenie Beanie', cursive;
   font-weight: bold;
 }
-.navbar {
+.custom-navbar {
   margin-bottom: 0px;
+}
+.custom-section-header {
+  font-family: 'Reenie Beanie', cursive;
+  font-weight: bold;
+  text-align: center;
+}
+.footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+.test-section {
+  display: block;
 }
