@@ -5,7 +5,7 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  font-family: sans-serif; 
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -1032,7 +1032,7 @@ th {
 .glyphicon-object-align-right:before {
   content: "\e249";
 }
-.glyphicon-triangle-right:before {
+.glyphicon-trfgle-right:before {
   content: "\e250";
 }
 .glyphicon-triangle-left:before {
@@ -3993,15 +3993,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   text-decoration: none;
   background-color: #eee;
 }
-/* Added by Ian Brown */
-.nav > li > a > svg {
-  fill: #777;
-}
-.nav > li > a:hover path,
-.nav > li > a:focus path {
-  fill: #000000;
-}
-/* End Ian's edit */
 .nav > li.disabled > a {
   color: #777;
 }
@@ -4203,6 +4194,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-collapse.in {
   overflow-y: auto;
 }
+
 @media (min-width: 768px) {
   .navbar-collapse {
     width: auto;
@@ -4226,6 +4218,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     padding-left: 0;
   }
 }
+
 .navbar-fixed-top .navbar-collapse,
 .navbar-fixed-bottom .navbar-collapse {
   max-height: 340px;
