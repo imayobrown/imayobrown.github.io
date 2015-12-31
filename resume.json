@@ -1,0 +1,95 @@
+{
+  "basics": {
+    "name": "Ian Brown",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "i.mayo.brown@gmail.com",
+    "phone": "(508) 685-9787",
+    "website": "http://imayobrown.github.io",
+    "summary": "",
+    "location": {
+      "address": "35 Essex Avenue",
+      "postalCode": "MA 01905",
+      "city": "Swampscott",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "imayobrown",
+      "url": "http://github.com/imayobrown"
+    }]
+  },
+  "work": [{
+    "company": "Communications and Power Industries",
+    "position": "Software Engineer",
+    "website": "http://www.cpii.com",
+    "startDate": "2012-09-15",
+    "endDate": "2015-12-31",
+    "summary": "Description...",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University of Massachusetts, Amherst",
+    "area": "Physics/Mathematics",
+    "studyType": "Bachelor",
+    "startDate": "2008-09-01",
+    "endDate": "2012-05-01",
+    "gpa": "3.8",
+    "courses": [
+      "Mechanics",
+	  "Solid State Physics",
+	  "E&M",
+	  "Quantum Mechanics",
+	  "Abstract Algebra",
+	  "Advanced Calculus"
+    ]
+  },
+  {
+	"institution": "Georgia Institute of Technology",
+	"area": "OMSCS",
+	"studyType": "Master's",
+	"startDate": "2015-01-01",
+	"endDate": "2015-12-31",
+	"gpa": "4.0",
+	"courses": [
+	  "Software Development Process",
+	  "Operating Systems"
+	]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Proficient",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [],
+  "references": []
+}
