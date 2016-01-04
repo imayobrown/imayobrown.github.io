@@ -6,7 +6,7 @@
     "email": "i.mayo.brown@gmail.com",
     "phone": "(508) 685-9787",
     "website": "http://imayobrown.github.io",
-    "summary": "",
+    "summary": "I am a language generalist who strives to learn new things as often as possible. I have design, development and implementation experience on multiple projects and have worked with a variety of technologies to create frontend and backend services as well as standalone applications. I enjoy working with open source technologies. My current interests are the Linux operating system the use of Node.js to create scalable network applications.",
     "location": {
       "address": "35 Essex Avenue",
       "postalCode": "MA 01905",
@@ -31,17 +31,6 @@
       "Started the company"
     ]
   }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
     "institution": "University of Massachusetts, Amherst",
     "area": "Physics/Mathematics",
@@ -60,8 +49,8 @@
   },
   {
 	"institution": "Georgia Institute of Technology",
-	"area": "OMSCS",
-	"studyType": "Master's",
+	"area": "Computer Science",
+	"studyType": "Master",
 	"startDate": "2015-01-01",
 	"endDate": "2015-12-31",
 	"gpa": "4.0",
@@ -70,26 +59,55 @@
 	  "Operating Systems"
 	]
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [],
   "skills": [{
-    "name": "Web Development",
+    "name": "Javascript",
     "level": "Proficient",
     "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
+	  "Backbone",
+	  "Node.js",
+	  "restify"
     ]
+  },
+  {
+    "name": "Python",
+	"level": "Proficient",
+	"keywords": [
+	  "Django",
+	  "Django REST"
+	]
+  }
+  {
+    "name": "C/C++",
+	"level": "Proficient",
+	"keywords": [
+	  "make",
+	  "gcc",
+	  "Linux"
+	]
+  }
+  {
+    "name": "Databases",
+	"level": "Proficient",
+	"keywords": [
+	  "MySQL",
+	  "MongoDB",
+	  "SQLite"
+	]
+  }
+  {
+    "name": "Version Control Software",
+	"level": "Proficient",
+	"keywords": [
+	  "Git",
+	  "Subversion"
+	]
   }],
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
   }],
-  "interests": [],
-  "references": []
+  "interests": [{
+    "name": "",
+	"
+  }],
 }
