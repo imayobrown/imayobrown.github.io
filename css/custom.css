@@ -17,7 +17,7 @@
 }
 .custom-section-header {
   font-family: 'Reenie Beanie', cursive;
-  font-weight: normal;
+  font-weight: bold;
   text-align: center;
 }
 .about {
@@ -29,6 +29,7 @@
 .custom-jumbotron {
   color: white;
   background: #324290;
+  font-weight: normal;
   /*background: linear-gradient(135deg, #2952a3, #3366cc 25%, #5c86d6 75%); */
 }
 .footer {
