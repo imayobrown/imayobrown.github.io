@@ -20,6 +20,11 @@
   font-weight: bold;
   text-align: center;
 }
+.custom-jumbotron-header {
+  font-family: 'Reenie Beanie', cursive;
+  font-weight: normal;
+  text-align: center;
+}
 .about {
   padding-bottom: 20px;
 }
@@ -27,8 +32,10 @@
   display: block;
 }
 .custom-jumbotron {
-  background: #3366cc;
-  background: linear-gradient(135deg, #2952a3, #3366cc 25%, #5c86d6 75%); 
+  color: white;
+  background: #324290;
+  font-weight: bold;
+  /*background: linear-gradient(135deg, #2952a3, #3366cc 25%, #5c86d6 75%); */
 }
 .footer {
   background: #e0e0d1;
