@@ -1,0 +1,23 @@
+{
+  "name": "imayobrown.github.io",
+  "homepage": "https://github.com/imayobrown/imayobrown.github.io",
+  "authors": [
+    "Ian Brown <i.mayo.brown@gmail.com>"
+  ],
+  "description": "Website for Ian Brown",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
+  }
+}
